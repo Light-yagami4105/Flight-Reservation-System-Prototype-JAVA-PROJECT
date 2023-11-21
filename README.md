@@ -1,4 +1,4 @@
-# Flight Reservation System Prototype (Work in Progress)
+# Flight Reservation System Prototype (Work in Progress) JAVA Application
 
 **Notice: This Project is Under Development**
 
